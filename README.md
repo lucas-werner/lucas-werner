@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hello! 👋
 
-My name is Lucas Werner. I'm a front-end developer learning back-end to fulfill my stack :) 
+My name is Lucas Werner and I'm currently learning how to fly!
 
 - 📫 How to reach me: lucas.1werner@gmail.com
