@@ -3,9 +3,11 @@
 
 Thanks for visiting! :smile:
 
-I'm currently a cadet (software engineering student) at [42 School @Porto](https://link-url-here.org) :rocket:
+:rocket: I'm currently a cadet (software engineering student) at [42 School @Porto](https://link-url-here.org) 
 
-### Technologies that I have experience:
+:computer: My current goal is to deepen my knowledge in software engineering computer and land a job as full-stack developer
+
+### Technologies that I've worked with:
 
 * React.js
 * MySQL
@@ -15,8 +17,6 @@ I'm currently a cadet (software engineering student) at [42 School @Porto](https
 
 * Node.js
 * Docker
-
-My current goal is to deepen my knowledge in software engineering computer and, in the future, impact people lives through innovative law-tech solutions :bulb:
 
 ### A summary of my interests (and fun facts):
 
