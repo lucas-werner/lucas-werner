@@ -9,13 +9,20 @@ Thanks for visiting! :smile:
 
 ### Technologies that I've worked with:
 
-* React.js
-* MySQL
-* MongoDB
+* HTML
+* CSS
+* Javascript
+* React
+* Redux
+* JEST
+* SQL
+
 
 ### Currently learning:
 
 * Node.js
+* Express
+* PostgreSQL
 * Docker
 
 ### A summary of my interests (and fun facts):
