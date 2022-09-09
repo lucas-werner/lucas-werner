@@ -5,7 +5,7 @@ Thanks for visiting! :smile:
 
 :rocket: I'm currently a cadet (software engineering student) at [42 School @Porto](https://link-url-here.org) 
 
-:computer: My current goal is to deepen my knowledge in software engineering computer and land a job as full-stack developer
+:computer: My current goal is to deepen my knowledge in software engineering and land a job as full-stack developer
 
 ### Technologies that I've worked with:
 
